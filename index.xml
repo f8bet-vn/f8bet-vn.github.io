@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>F8BET - TRANG CHỦ ĐĂNG KÝ ĐĂNG NHẬP CHÍNH THỨC + 58K F8BETA2</title>
+  <meta name="description" content="F8BET mang đến trải nghiệm cá cược thể thao, casino, nổ hũ và game bài uy tín hàng đầu. Tỷ lệ kèo siêu hấp dẫn, giao diện mượt mà, hỗ trợ 24/7.">
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: #ffffff;
+      color: #004d40;
+    }
+    header {
+      background: #e0f7fa;
+      padding: 20px;
+      text-align: center;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    header h1 {
+      margin: 0;
+      font-size: 28px;
+      color: #00796b;
+    }
+    .hero {
+      background: url('https://f8bet.now/banner.jpg') center/cover no-repeat;
+      height: 70vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      color: white;
+    }
+    .hero h2 {
+      font-size: 36px;
+      background: rgba(0, 121, 107, 0.7);
+      padding: 20px;
+      border-radius: 10px;
+    }
+    .tabs {
+      display: flex;
+      justify-content: center;
+      margin: 40px 0 20px;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+    .tab-button {
+      padding: 10px 20px;
+      background: #b2dfdb;
+      border: none;
+      border-radius: 5px;
+      font-weight: bold;
+      color: #004d40;
+      cursor: pointer;
+      transition: 0.3s;
+    }
+    .tab-button:hover, .tab-button.active {
+      background: #004d40;
+      color: #fff;
+    }
+    .tab-content {
+      display: none;
+      max-width: 700px;
+      margin: auto;
+      background: #f1fefc;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    .tab-content.active {
+      display: block;
+    }
+    .tab-content ul {
+      padding-left: 20px;
+    }
+    .tab-content li {
+      line-height: 1.8;
+    }
+    footer {
+      margin-top: 60px;
+      background: #e0f2f1;
+      padding: 20px;
+      text-align: center;
+      font-size: 14px;
+      color: #00796b;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>F8BET - Sân Chơi Cá Cược Đỉnh Cao 2025</h1>
+  </header>
+
+  <div class="hero">
+    <h2>Truy Cập F8BET An Toàn Mỗi Ngày - Không Lo Bị Chặn</h2>
+  </div>
+
+  <div class="tabs">
+    <button class="tab-button active" onclick="showTab(0)">Miền Bắc</button>
+    <button class="tab-button" onclick="showTab(1)">Miền Trung</button>
+    <button class="tab-button" onclick="showTab(2)">Miền Nam</button>
+    <button class="tab-button" onclick="showTab(3)">Toàn Quốc</button>
+  </div>
+
+  <div class="tab-content active">
+    <ul>
+      <li><a href="https://f8bet1d.kim?r=0R9GV46</a>" target="_blank">https://f8bet1d.kim?r=0R9GV46</a></li>
+      <li><a href="https://f8beta2.com?r=0R9GV46" target="_blank">https://f8beta2.com?r=0R9GV46</a></li>
+    </ul>
+  </div>
+  <div class="tab-content">
+    <ul>
+      <li><a href="https://f8bet1d.kim?r=0R9GV46</a>" target="_blank">https://f8bet1d.kim?r=0R9GV46</a></li>
+      <li><a href="https://f8beta2.com?r=0R9GV46" target="_blank">https://f8beta2.com?r=0R9GV46</a></li>
+    </ul>
+  </div>
+  <div class="tab-content">
+    <ul>
+      <li><a href="https://f8bet1d.kim?r=0R9GV46</a>" target="_blank">https://f8bet1d.kim?r=0R9GV46</a></li>
+      <li><a href="https://f8beta2.com?r=0R9GV46" target="_blank">https://f8beta2.com?r=0R9GV46</a></li>
+    </ul>
+  </div>
+  <div class="tab-content">
+    <ul>
+      <li><a href="https://f8bet.now" target="_blank">https://f8bet.now</a></li>
+    </ul>
+  </div>
+
+  <footer>
+    &copy; 2025 F8BET. Bản quyền đã được bảo hộ. Mọi liên kết đảm bảo an toàn và cập nhật liên tục.
+  </footer>
+
+  <script>
+    const tabs = document.querySelectorAll('.tab-button');
+    const contents = document.querySelectorAll('.tab-content');
+
+    function showTab(index) {
+      tabs.forEach(t => t.classList.remove('active'));
+      contents.forEach(c => c.classList.remove('active'));
+      tabs[index].classList.add('active');
+      contents[index].classList.add('active');
+    }
+  </script>
+</body>
+</html>
